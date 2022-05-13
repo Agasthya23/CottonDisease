@@ -8,7 +8,7 @@ import tensorflow as tf
 
 app = FastAPI()
 
-MODEL = tf.keras.models.load_model(r"D:\Agasthya\PycharmProjects\CottonDisease\1")
+MODEL = tf.keras.models.load_model("1")
 
 CLASS_NAMES = ['diseased cotton leaf', 'diseased cotton plant', 'fresh cotton leaf', 'fresh cotton plant']
 
