@@ -1,0 +1,11 @@
+cv2
+numpy
+uvloop
+httptools
+fastapi
+tensorflow
+uvicorn
+python-multipart
+pillow
+tensorflow-serving-api==2.8.0
+
