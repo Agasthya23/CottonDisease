@@ -2,6 +2,9 @@
 
 ## Table of Contents
  * [Overview](#overview)
+ * [Purpose] (#Purpose)
+ * [Codes and Resources Used] (#Codes and Resources Used)
+ * 
 
 
 ## Overview
@@ -32,6 +35,18 @@ Link : [https://cotton-disease-dl.herokuapp.com/docs](https://cotton-disease-dl.
 * FastAPI Productionization:
  https://fastapi.tiangolo.com/tutorial/
  https://www.tutlinks.com/create-and-deploy-fastapi-app-to-heroku/
+ 
+## Model preprocessing and building
+* Performed resize and rescale and Data Augmentation
+* Built the model architecture using CNN.
+* Added multiple max pooling and Conv 2D layers.
+* Then flattened the layer and added dense layer with softmax activation function.
+* Fit the model with 50 epochs and provided the following results.
+
+![Front end](https://imgur.com/a/5Tzllnf.png)
+
+
+
  
  
  
