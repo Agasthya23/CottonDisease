@@ -1,4 +1,4 @@
-# CottonDisease
+# Cotton-Disease-Detection
 
 ## Table of Contents
  * [Overview](#overview)
@@ -43,8 +43,13 @@ Link : [https://cotton-disease-dl.herokuapp.com/docs](https://cotton-disease-dl.
 * Then flattened the layer and added dense layer with softmax activation function.
 * Fit the model with 50 epochs and provided the following results.
 
-![Front end](https://imgur.com/a/4dzucI2.png)
+![Front end](https://imgur.com/y2v9Eom.png)
 
+## Future Scope
+
+* Use different different Transfer Learning Architecture.
+* Build a mobile app.
+* Deploy on different platforms : GCP, Azure.
 
 
  
