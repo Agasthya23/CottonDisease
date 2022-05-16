@@ -21,7 +21,7 @@ The code is written in Python and makes use of Tensorflow libraries in developin
 Link : [https://cotton-disease-dl.herokuapp.com/docs](https://cotton-disease-dl.herokuapp.com/docs)
 
 
-![Front end](https://imgur.com/a/C828oR2.)
+![Front end](https://imgur.com/N5PReqb.png)
 
 ## Codes and Resources Used
 * Python Version: 3.8
