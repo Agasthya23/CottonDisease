@@ -3,7 +3,7 @@
 ## Table of Contents
  * [Overview](#overview)
  * [Purpose](#Purpose)
- * [Codes and Resources Used](#Codes and Resources Used)
+ * [Codes and Resources Used](#CodesandResourcesUsed)
  * [Model preprocessing and building](#Model preprocessing and building)
  * [Future Scope](#Future Scope)
 
