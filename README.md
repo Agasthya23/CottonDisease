@@ -43,7 +43,7 @@ Link : [https://cotton-disease-dl.herokuapp.com/docs](https://cotton-disease-dl.
 * Then flattened the layer and added dense layer with softmax activation function.
 * Fit the model with 50 epochs and provided the following results.
 
-![Front end](https://imgur.com/a/5Tzllnf.png)
+![Front end](https://imgur.com/a/4dzucI2.png)
 
 
 
